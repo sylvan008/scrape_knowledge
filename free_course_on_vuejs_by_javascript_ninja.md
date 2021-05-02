@@ -4,12 +4,6 @@
 
 Ссылки на видео курса:
 
-# Бесплатный курс по Vue.js
-
-[Бесплатный курс по Vue.js: о структуре](https://www.youtube.com/watch?v=4XTy6ucbLNg&list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw&index=1).
-
-Ссылки на видео курса:
-
 1. [Зачем нужен Vue.js? - Vue.js: концепции](https://www.youtube.com/watch?v=4xyb_tA-uw0&list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw&index=2)
 2. [Реактивность - Vue.js: концепции](https://www.youtube.com/watch?v=LV235z6qOUI&list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw&index=3)
 3. [Двустороннее связывание - Vue.js: концепции](https://www.youtube.com/watch?v=U2ZJCMiQuo8&list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw&index=4)

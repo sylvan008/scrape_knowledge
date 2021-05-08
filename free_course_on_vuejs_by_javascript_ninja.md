@@ -68,6 +68,6 @@
     - [Код по итогам урока](https://gitlab.com/vuejs-club/youtube-course/cryptonomicon/-/tree/lesson9)
     - [Разбиение приложения на компоненты](https://ru.vuejs.org/v2/guide/#%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B)
     - [Основы компонентов](https://ru.vuejs.org/v2/guide/components.html)
- 25. [Нативные события - Vue.js: нюансы](https://www.youtube.com/watch?v=0Uv9DkaYquk&t=88s)
+25. [Нативные события - Vue.js: нюансы](https://www.youtube.com/watch?v=0Uv9DkaYquk&t=88s)
     - [v-on.native](https://v3.vuejs.org/guide/migration/v-on-native-modifier-removed.html#overview)
- 26. [Всплытие событий - Vue.js: нюансы](https://www.youtube.com/watch?v=prIBI_ykIPo)
+26. [Всплытие событий - Vue.js: нюансы](https://www.youtube.com/watch?v=prIBI_ykIPo)
